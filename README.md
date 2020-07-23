@@ -1,0 +1,2 @@
+# SeleniumForShopping
+使用selnium实现网页自动化操作
