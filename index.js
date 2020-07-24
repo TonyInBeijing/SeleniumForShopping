@@ -11,8 +11,8 @@ const { delay } = require('./utils');
 const { elementLocated } = require('selenium-webdriver/lib/until');
 const { del } = require('selenium-webdriver/http');
 // 小米账号密码
-const USERPHONE = '18500031126';
-const USERPASSWORD = 'yuehaowei1126';
+const USERPHONE = '';
+const USERPASSWORD = '';
 
 // 脚本主方法
 const mainVoid = async () => {
