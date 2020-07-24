@@ -9,8 +9,8 @@ const { Builder, By, until, Key } = require('selenium-webdriver');
 // const chrome = require('selenium-webdriver/chrome');
 const { base64ToFile, runPythonFile, delay } = require('./utils');
 // 小米账号密码
-const USERPHONE = '18500031126';
-const USERPASSWORD = 'yuehaowei1126';
+const USERPHONE = '';
+const USERPASSWORD = '';
 // 登录滑动图文件名称
 const BACKGROUNDFILE = 'backgroundFile';
 const SWIPERFILE = 'sliderFile';
