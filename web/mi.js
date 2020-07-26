@@ -8,8 +8,8 @@ require('chromedriver');
 const { Builder, By } = require('selenium-webdriver');
 const { delay } = require('../utils');
 // 小米账号密码
-const USERPHONE = '18500031126';
-const USERPASSWORD = 'yuehaowei1126';
+const USERPHONE = '';
+const USERPASSWORD = '';
 
 const xiaomiShop = async (account = USERPHONE, password = USERPASSWORD) => {
     // 创建一个chrome浏览器的实例
